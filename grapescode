@@ -1,0 +1,629 @@
+<!DOCTYPE html>
+<html lang="en">
+
+  <head>
+    <title>Paige Douglas</title>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta name="robots" content="index,follow" />
+    <meta name="generator" content="GrapesJS Studio" />
+    <meta property="og:title" content="Home" />
+  </head>
+
+  <body id="iuqk" class="gjs-t-body">
+    <section id="irrp9p" class="gjs-section">
+      <div id="i6y4k" class="gjs-container">
+        <div id="i5efq2" class="navbar">
+          <div data-gjs="navbar" id="ivpro" class="navbar-cnt">
+            <a href="/" class="navbar-brand" id="ivy35">
+              <h1 id="ih1">Paige Douglas</h1>
+            </a>
+            <div id="iojx23" class="navbar-menu-toggle">
+              <div data-type-icon="" id="ic1c7s" class="gjs-icon">
+                <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" id="icc9h">
+                  <path fill="currentColor" d="M3 6h18v2H3zm0 5h18v2H3zm0 5h18v2H3z" id="ip3my"></path>
+                </svg>
+              </div>
+            </div>
+            <div data-gjs="navbar-items" id="ijynh" class="navbar-items-c">
+              <nav id="i96ci" class="navbar-menu-nav">
+                <a id="ilink2" href="#about" class="nav-links">About</a>
+                <a id="ilink3" href="#portfolio" class="nav-links">Flute</a>
+                <a id="ilink5" href="#artwork" class="nav-links">Artwork</a>
+                <a id="ilink6" href="#events" class="nav-links">Events</a>
+                <a id="ilink7" href="#contact" class="nav-links">Contact</a>
+              </nav>
+            </div>
+          </div>
+        </div>
+      </div>
+    </section>
+    <section id="home" title="" class="gjs-section">
+      <div id="ibannercnt" class="gjs-container">
+        <div data-type-role="flex-row" id="ibannerrow" class="gjs-plg-flex-row">
+          <div data-type-role="flex-column" id="ibannercol1" class="gjs-plg-flex-column">
+            <img id="ibannerimg" src="https://cdn.grapesjs.com/workspaces/cmms2nlou1a6n3ccnpj2h7yx5/assets/60376271-db75-43c0-9f11-05efe9ae0b2d__headshot-smaller-file.png" alt="Profile Photo" />
+          </div>
+          <div data-type-role="flex-column" id="ibannercol2" class="gjs-plg-flex-column">
+            <h2 id="ibannername">Hi, I’m Paige.</h2>
+            <h3 id="ibannerrole">Flutist, teacher, illustrator</h3>
+            <p id="ibannertext">Building exceptional digital experiences through innovative design and cutting-edge development. Specializing in creating user-centered solutions that drive results and exceed expectations.</p>
+            <div data-type-role="flex-row" id="ibannerbtn" class="gjs-plg-flex-row">
+              <a href="#about" id="ibtn1" class="gjs-link-box">
+                <span id="ibtn1text">Read More</span>
+              </a>
+            </div>
+          </div>
+        </div>
+      </div>
+    </section>
+    <section id="about" class="gjs-section">
+      <div id="iabtcnt" class="gjs-container">
+        <div data-type-role="flex-column" id="iabtheader" class="gjs-plg-flex-column">
+          <h2 id="iabttitle">About Me</h2>
+        </div>
+        <div data-type-role="flex-row" id="iabtrow" class="gjs-plg-flex-row">
+          <div data-type-role="flex-column" id="iabtcol1" class="gjs-plg-flex-column">
+            <p id="iabtdesc">
+              <meta http-equiv="Content-Type" content="text/html; charset=utf-8" id="ivnhl" />
+              <meta name="ProgId" content="Word.Document" id="ijjbf" />
+              <meta name="Generator" content="Microsoft Word 15" id="i8j1v" />
+              <meta name="Originator" content="Microsoft Word 15" id="ivvtw" />
+              <link rel="File-List" href="file:///C:/Users/Paige/AppData/Local/Temp/msohtmlclip1/01/clip_filelist.xml" id="illhz" />
+              <link rel="themeData" href="file:///C:/Users/Paige/AppData/Local/Temp/msohtmlclip1/01/clip_themedata.thmx" id="ic1k1" />
+              <link rel="colorSchemeMapping" href="file:///C:/Users/Paige/AppData/Local/Temp/msohtmlclip1/01/clip_colorschememapping.xml" id="ithpg" />
+            <p id="iy6of" class="MsoNormal">Paige Douglas is an active chamber and solo musician in Tallahassee, Florida. She is currently a flute performance major at Florida State University (FSU), class of 2026. She frequently performs with FSU’s graduate-level bands and orchestras, and she is currently co-principal of the University Symphony Orchestra. She participated in the Florida Flute Association 2023 and 2024 conferences with the FSU Flute Ensemble.</p>
+            <div id="ihyap">
+              <br id="iwv7i" />
+            </div>
+            <p id="iqini" class="MsoNormal">Douglas studies with Dr. Karen Large and Dr. Mary Matthews at FSU. In her hometown of Maryville, Tennessee, she studied with Knoxville Symphony Orchestra member Zach Millwood and previous Maryville College professor of flute Nathalie Simper. </p>
+            <div id="i5tq4">
+              <br id="iv30i" />
+            </div>
+            <p id="ifpoo" class="MsoNormal">Alongside her flute studies, Douglas is also an active painter and animator. This February, her work “Glowing” was featured in Blackberry Mountain’s<em id="ii8q9"> Perennial Ties</em> group exhibition. She also collaborated with the Khemia Ensemble to create a series of animations for their show<em id="ilo7e"> all the lives we lived</em>. </p>
+            </p>
+            <a href="https://fsu-my.sharepoint.com/:b:/g/personal/pmd22_fsu_edu/IQBMHGaPRgUDSIAuJ-bLceKoAV4hFpOnYY4DIXjGXnsTwcY?e=f7PCBP" id="ibtn1-2" download="Paige-Douglas-CV.pdf" aria-label="Download my CV as PDF" class="gjs-link-box">
+              <span id="ibtn1text-2">Download My CV</span>
+            </a>
+          </div>
+          <div data-type-role="flex-column" id="iabtcol2" class="gjs-plg-flex-column">
+            <img id="iabtimg" src="https://cdn.grapesjs.com/workspaces/cmms2nlou1a6n3ccnpj2h7yx5/assets/863d12b8-e005-449c-bc05-0a767fcab848__headshot-smaller-file-cropped.png" alt="About Image" />
+          </div>
+        </div>
+      </div>
+    </section>
+    <section id="services" class="gjs-section">
+      <div id="isrvcnt" class="gjs-container">
+        <div data-type-role="flex-column" id="isrvheader" class="gjs-plg-flex-column">
+          <h2 id="isrvtitle">My Services</h2>
+          <p id="isrvsubtitle">Offering a comprehensive range of creative and technical services to help bring your vision to life and achieve your business goals.</p>
+        </div>
+        <div data-type-role="flex-row" id="isrvcards" class="gjs-plg-flex-row">
+          <div data-type-role="flex-column" id="isrv1" class="gjs-plg-flex-column">
+            <div data-type-icon="" id="isrv1icon" class="gjs-icon">
+              <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" id="io05m">
+                <path fill="currentColor" d="M487.97 155.853a24.04 24.04 0 0 0-7-18.166L376.126 32.842a24 24 0 0 0-35.546 1.772l-89.936 109.922l-130.137 26.514a27.1 27.1 0 0 0-20.025 17.026L17.883 405.84a27.27 27.27 0 0 0 6.205 28.917l53.271 53.271a27.26 27.26 0 0 0 28.915 6.207l217.86-82.635a27.14 27.14 0 0 0 16.95-19.655l28.1-128.7L479.2 173.232a24.04 24.04 0 0 0 8.77-17.379m-177.6 226.741L97.807 463.222l-13.142-13.143l99.36-99.36a56.061 56.061 0 1 0-22.268-22.986l-99.72 99.72l-13.143-13.143l80.576-212.429l124.717-25.41l83.052 83.051ZM187.42 301.9a24 24 0 1 1 24 24a24 24 0 0 1-24-24m168.391-69.065L280.973 158l78.776-96.28l92.343 92.343Z" id="i4duj">
+                </path>
+              </svg>
+            </div>
+            <h3 id="isrv1title">UI/UX Design</h3>
+            <p id="isrv1desc">Creating intuitive and engaging user interfaces that provide exceptional experiences across all devices and platforms.</p>
+          </div>
+          <div data-type-role="flex-column" id="isrv2" class="gjs-plg-flex-column">
+            <div data-type-icon="" id="isrv1icon-2" class="gjs-icon">
+              <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" id="i1n861">
+                <path fill="currentColor" d="M472 16H40a24.03 24.03 0 0 0-24 24v336a24.03 24.03 0 0 0 24 24h200v64h-80v32h192v-32h-80v-64h200a24.03 24.03 0 0 0 24-24V40a24.03 24.03 0 0 0-24-24m-8 352H48v-96h416Zm0-128H48V48h416Z" id="i6un7t"></path>
+                <path fill="currentColor" d="M400 304h32v32h-32z" id="imzq2q"></path>
+              </svg>
+            </div>
+            <h3 id="isrv2title">Web Development</h3>
+            <p id="isrv2desc">Building responsive, fast, and scalable websites using the latest technologies and best practices in modern web development.</p>
+          </div>
+          <div data-type-role="flex-column" id="isrv3" class="gjs-plg-flex-column">
+            <div data-type-icon="" id="isrv1icon-2-2" class="gjs-icon">
+              <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" id="ivula3">
+                <path fill="currentColor" d="M408 304a168.21 168.21 0 0 0-152 96.5A168.21 168.21 0 0 0 104 304H16v16c0 92.636 75.364 168 168 168h144c92.636 0 168-75.364 168-168v-16ZM184 456c-69.581 0-127.124-52.519-135.064-120H104c69.581 0 127.124 52.519 135.064 120Zm144 0h-55.064c7.94-67.481 65.483-120 135.064-120h55.064c-7.94 67.481-65.483 120-135.064 120" id="itjoi4"></path>
+                <path fill="currentColor" d="M169.227 262.773a87.36 87.36 0 0 0 24.547 47.453l4.687 4.686h6.627A87.35 87.35 0 0 0 256 298.716a87.36 87.36 0 0 0 50.912 16.2h6.627l4.687-4.686a87.36 87.36 0 0 0 24.547-47.453a87.36 87.36 0 0 0 47.453-24.547l4.686-4.687v-6.627A87.35 87.35 0 0 0 378.716 176a87.36 87.36 0 0 0 16.2-50.912v-6.627l-4.686-4.687a87.36 87.36 0 0 0-47.453-24.547a87.36 87.36 0 0 0-24.547-47.453l-4.687-4.686h-6.627A87.36 87.36 0 0 0 256 53.284a87.35 87.35 0 0 0-50.912-16.2h-6.627l-4.687 4.686a87.36 87.36 0 0 0-24.547 47.453a87.36 87.36 0 0 0-47.453 24.547l-4.686 4.687v6.627A87.36 87.36 0 0 0 133.284 176a87.35 87.35 0 0 0-16.2 50.912v6.627l4.686 4.687a87.36 87.36 0 0 0 47.457 24.547m-3.736-98.086a55.57 55.57 0 0 1-16-32.8A55.57 55.57 0 0 1 184 120h16v-16a55.57 55.57 0 0 1 11.884-34.506a55.57 55.57 0 0 1 32.8 16L256 96.8l11.313-11.313a55.57 55.57 0 0 1 32.8-16A55.57 55.57 0 0 1 312 104v16h16a55.57 55.57 0 0 1 34.506 11.884a55.57 55.57 0 0 1-16 32.8L335.2 176l11.314 11.314a55.57 55.57 0 0 1 16 32.8A55.57 55.57 0 0 1 328 232h-16v16a55.57 55.57 0 0 1-11.884 34.506a55.57 55.57 0 0 1-32.8-16L256 255.2l-11.314 11.31a55.57 55.57 0 0 1-32.8 16A55.57 55.57 0 0 1 200 248v-16h-16a55.57 55.57 0 0 1-34.506-11.884a55.57 55.57 0 0 1 16-32.8L176.8 176Z" id="im9mz8"></path>
+              </svg>
+            </div>
+            <h3 id="isrv3title">Branding</h3>
+            <p id="isrv3desc">Developing strong brand identities that resonate with your target audience and set you apart from the competition.</p>
+          </div>
+        </div>
+      </div>
+    </section>
+    <section id="flute" class="gjs-section">
+      <div id="iportcnt-2" class="gjs-container">
+        <div data-type-role="flex-column" id="iportheader-2" class="gjs-plg-flex-column">
+          <h2 id="iporttitle-2">Listen</h2>
+          <p id="iportsubtitle-2">Hear my recent performances in chamber, large ensemble, and solo settings.</p>
+        </div>
+        <div data-type-role="flex-row" id="iportcards-2" class="gjs-plg-flex-row">
+          <div data-type-role="flex-column" id="iport1-2" class="gjs-plg-flex-column">
+            <img id="iport1img-2" src="https://cdn.grapesjs.com/workspaces/cmms2nlou1a6n3ccnpj2h7yx5/assets/13241ced-5cfe-45f4-97c1-74cde3b40af4__screenshot-2026-03-16-091756.png" alt="Project 1" />
+            <h3 id="iport1title-2">Summer Music with Creo Quintet</h3>
+            <span id="iblog3author-2-2">March 13th, 2026</span>
+            <a href="https://youtu.be/z69u6CtpAKw?t=3435" id="iblog1link-2-2" class="gjs-t-link">Livestream Archive</a>
+          </div>
+          <div data-type-role="flex-column" id="iport5-2" class="gjs-plg-flex-column">
+            <img id="iport5img-2" src="https://cdn.grapesjs.com/workspaces/cmms2nlou1a6n3ccnpj2h7yx5/assets/22c32e40-1835-4280-88df-24a080c53f58__alma-screenshot-cropped.png" alt="Project 5" />
+            <h3 id="iport5title-2">Alma by Tania León, with Gini Tu</h3>
+            <span id="iblog3author-2-2-2-3">February 25th, 2026</span>
+            <a href="https://fsu-my.sharepoint.com/:v:/g/personal/pmd22_fsu_edu/IQBG4-277nC3SLeFnz4nEw2IAdP53olKIiQSXYdlEMJy-nM?e=3AcNEt" id="iblog1link-2-2-2-3" class="gjs-t-link">Recording</a>
+          </div>
+          <div data-type-role="flex-column" id="iport2-2" class="gjs-plg-flex-column">
+            <img id="iport2img-2" src="https://cdn.grapesjs.com/workspaces/cmms2nlou1a6n3ccnpj2h7yx5/assets/aa3f8be9-4f78-4919-8b6e-593bfb8e6120__usopiccolocropped.png" alt="Project 2" />
+            <h3 id="iport2title-2">Rite of Spring with University Symphony Orchestra</h3>
+            <span id="iblog3author-2-2-2">February 21st, 2026</span>
+            <a href="https://video.wfsu.org/video/fsu-university-symphony-orchestra-february-21-2026-xtudjz/" id="iblog1link-2-2-2" class="gjs-t-link">Livestream Archive</a>
+          </div>
+          <div data-type-role="flex-column" id="iport6-2" class="gjs-plg-flex-column">
+            <img id="iport6img-2" src="https://cdn.grapesjs.com/workspaces/cmms2nlou1a6n3ccnpj2h7yx5/assets/053e4b7d-b7e5-4b51-884d-a1638ed0f880__maresz-cropped.png" alt="Project 6" />
+            <h3 id="iport6title-2">Maresz - Circumambulation</h3>
+            <span id="iblog3author-2-2-2-2-2">November 18th, 2025</span>
+            <a href="https://fsu-my.sharepoint.com/:u:/g/personal/pmd22_fsu_edu/IQBGyMtGeoQ3RLrMN9CV6jf8AQKRXcaG_9wR_M8MMYjoJdo?e=qhD4kP" id="iblog1link-2-2-2-2-2" class="gjs-t-link">Audio Recording</a>
+          </div>
+          <div data-type-role="flex-column" id="iport6-2-2" class="gjs-plg-flex-column">
+            <img id="iport6img-2-2" src="https://cdn.grapesjs.com/workspaces/cmms2nlou1a6n3ccnpj2h7yx5/assets/06018a83-34af-4520-a310-132d85a8d5c3__mozart-cropped.png" alt="Project 6" />
+            <h3 id="iport6title-2-2">Mozart - Flute Quartet No. 1</h3>
+            <span id="iblog3author-2-2-2-2-2-2">November 18th, 2025</span>
+            <a href="https://fsu-my.sharepoint.com/:u:/g/personal/pmd22_fsu_edu/IQCQ4H_yNNJOS58eVjYWxuQJAaq7u30OYtIvpuKFD2hzKdg?e=0FB6ZA" id="iblog1link-2-2-2-2-2-2" class="gjs-t-link">Audio Recording</a>
+          </div>
+          <div data-type-role="flex-column" id="iport3-2" class="gjs-plg-flex-column">
+            <img id="iport3img-2" src="https://cdn.grapesjs.com/workspaces/cmms2nlou1a6n3ccnpj2h7yx5/assets/5089f0bf-acd2-48b0-8697-7778137f5843__upoflute1.png" alt="Project 3" />
+            <h3 id="iport3title-2">Dvořák’s 8th Symphony with University Philharmonia</h3>
+            <span id="iblog3author-2-2-2-2">February 15th, 2024</span>
+            <a href="https://video.wfsu.org/video/fsu-university-philharmonia-february-15-2024-hfvbad/" id="iblog1link-2-2-2-2" class="gjs-t-link">Livestream Archive</a>
+          </div>
+        </div>
+      </div>
+    </section>
+    <section id="flute-2" class="gjs-section">
+      <div id="iportcnt-2-2" class="gjs-container">
+        <div data-type-role="flex-column" id="iportheader-2-2" class="gjs-plg-flex-column">
+          <h2 id="iporttitle-2-2">Artwork</h2>
+          <p id="iportsubtitle-2-2">View my recent artworks in a variety of media, including acrylic, oil, gouache, digital media, and watercolor.</p>
+        </div>
+        <div data-type-role="flex-row" id="iportcards-2-2" class="gjs-plg-flex-row">
+          <div data-type-role="flex-column" id="iport1-2-2" class="gjs-plg-flex-column">
+            <a id="inayyn" href="https://www.instagram.com/p/DV8yWoBkd21/?img_index=1" title="" target="_blank" class="gjs-link-box">
+              <img src="https://cdn.grapesjs.com/workspaces/cmms2nlou1a6n3ccnpj2h7yx5/assets/ac37ca64-8d39-4d85-bac8-2692ae7e3f4b__glowing-recrop.jpg" id="iaxhri" />
+            </a>
+            <h3 id="iport1title-2-2">“Glowing”</h3>
+            <span id="iblog3author-2-2-3">Acrylic on canvas, 18x24”<div id="ifbrfl">Featured in<em id="ik38te"> Perennial Ties</em> group gallery exhibition, 2026.</div>
+            </span>
+          </div>
+          <div data-type-role="flex-column" id="iport1-2-2-6" class="gjs-plg-flex-column">
+            <a id="inayyn-6" href="https://www.instagram.com/p/DNl3_TeJSpy/?img_index=1" title="" target="_blank" class="gjs-link-box">
+              <img src="https://cdn.grapesjs.com/workspaces/cmms2nlou1a6n3ccnpj2h7yx5/assets/19f2e37b-c3b1-4ee5-88d5-e67839fee161__cover-art003.png" id="iaxhri-6" />
+            </a>
+            <h3 id="iport1title-2-2-6">Color EP Art</h3>
+            <span id="iblog3author-2-2-3-6">Digital artwork<div id="iev1ao">Collaboration with Raúl Parra Sanz for his EP titled “Color.”</div>
+            </span>
+          </div>
+          <div data-type-role="flex-column" id="iport1-2-2-2" class="gjs-plg-flex-column">
+            <a id="inayyn-2" href="" title="" target="_blank" class="gjs-link-box">
+              <img src="https://cdn.grapesjs.com/workspaces/cmms2nlou1a6n3ccnpj2h7yx5/assets/85bffaa8-fda9-4967-b816-293f87d7974b__trillium-watercolor.png" id="iaxhri-2" />
+            </a>
+            <h3 id="iport1title-2-2-2">“Trillium”</h3>
+            <span id="iblog3author-2-2-3-2">Watercolor on paper, 5x7”</span>
+          </div>
+          <div data-type-role="flex-column" id="iport1-2-2-4" class="gjs-plg-flex-column">
+            <a id="inayyn-4" href="https://www.instagram.com/p/CufZwVyPUum/?img_index=2" title="" target="_blank" class="gjs-link-box">
+              <img src="https://cdn.grapesjs.com/workspaces/cmms2nlou1a6n3ccnpj2h7yx5/assets/1c5d0321-57ae-4f8f-9052-32eea0fad92e__ducks-gouache.png" id="iaxhri-4" />
+            </a>
+            <h3 id="iport1title-2-2-4">“Mallard Family”</h3>
+            <span id="iblog3author-2-2-3-4">Gouache on paper, 10x12”</span>
+          </div>
+          <div data-type-role="flex-column" id="iport1-2-2-5" class="gjs-plg-flex-column">
+            <a id="inayyn-5" href="https://www.instagram.com/p/DMnsPlAMsFL/?img_index=1" title="" target="_blank" class="gjs-link-box">
+              <img src="https://cdn.grapesjs.com/workspaces/cmms2nlou1a6n3ccnpj2h7yx5/assets/5b4054d7-ebfb-44d4-b14a-421013c2a7da__d801cdaa-b341-40cd-9e06-0fc854aeb0ae1.jpg" id="iaxhri-5" />
+            </a>
+            <h3 id="iport1title-2-2-5">“Goldfinch”</h3>
+            <span id="iblog3author-2-2-3-5">Gouache on paper, 5x7”</span>
+          </div>
+          <div data-type-role="flex-column" id="iport1-2-2-3" class="gjs-plg-flex-column">
+            <a id="inayyn-3" href="https://www.instagram.com/p/CjKH4W6sgxi/?img_index=1" title="" target="_blank" class="gjs-link-box">
+              <img src="https://cdn.grapesjs.com/workspaces/cmms2nlou1a6n3ccnpj2h7yx5/assets/c89a5576-8a43-4f9a-ba12-819edfa73ec8__daylily.png" id="iaxhri-3" />
+            </a>
+            <h3 id="iport1title-2-2-3">“Daylily”</h3>
+            <span id="iblog3author-2-2-3-3">Oil on canvas, 8x10”<div id="ix61bz">Featured in<em id="i9cta6"> Perennial Ties</em> group gallery exhibition, 2025.</div>
+            </span>
+          </div>
+        </div>
+      </div>
+    </section>
+    <section id="artwork" class="gjs-section">
+      <div id="iportcnt" class="gjs-container">
+        <div data-type-role="flex-column" id="iportheader" class="gjs-plg-flex-column">
+          <h2 id="iporttitle">Artwork</h2>
+        </div>
+        <div data-type-role="flex-row" id="iportcards" class="gjs-plg-flex-row">
+          <div data-type-role="flex-column" id="iport1" class="gjs-plg-flex-column">
+            <a href="https://cdn.grapesjs.com/workspaces/cmf55fvd721dbd80a2yd22yfh/assets/92b88b96-cdcb-42ea-9c7a-cf0c9226b798__lp-maxwell-4.webp" target="_blank" rel="noopener" aria-label="Open Glowing Flowers artwork" id="il090p" class="gjs-link-box">
+              <img id="iport1img" src="https://cdn.grapesjs.com/workspaces/cmf55fvd721dbd80a2yd22yfh/assets/92b88b96-cdcb-42ea-9c7a-cf0c9226b798__lp-maxwell-4.webp" alt="Project 1" loading="lazy" />
+            </a>
+            <h3 id="iport1title">Glowing Flowers</h3>
+            <p id="iport1cat">Development</p>
+          </div>
+          <div data-type-role="flex-column" id="iport2" class="gjs-plg-flex-column">
+            <img id="iport2img" src="https://cdn.grapesjs.com/workspaces/cmf55fvd721dbd80a2yd22yfh/assets/17910c97-e0ae-419b-b6da-a3428d0444f1__lp-maxwell.webp" alt="Project 2" />
+            <h3 id="iport2title">Mobile App Design</h3>
+            <p id="iport2cat">Web Design</p>
+          </div>
+          <div data-type-role="flex-column" id="iport3" class="gjs-plg-flex-column">
+            <img id="iport3img" src="https://cdn.grapesjs.com/workspaces/cmf55fvd721dbd80a2yd22yfh/assets/cd13d5eb-de47-436c-b68a-63c938aa3304__lp-maxwell-10.webp" alt="Project 3" />
+            <h3 id="iport3title">Corporate Website</h3>
+            <p id="iport3cat">Development</p>
+          </div>
+          <div data-type-role="flex-column" id="iport4" class="gjs-plg-flex-column">
+            <img id="iport4img" src="https://cdn.grapesjs.com/workspaces/cmf55fvd721dbd80a2yd22yfh/assets/5f1eeb02-727f-4d2d-af1f-bf4cf6ad4415__lp-maxwell-7.webp" alt="Project 4" />
+            <h3 id="iport4title">Brand Identity</h3>
+            <p id="iport4cat">Branding</p>
+          </div>
+          <div data-type-role="flex-column" id="iport5" class="gjs-plg-flex-column">
+            <img id="iport5img" src="https://cdn.grapesjs.com/workspaces/cmf55fvd721dbd80a2yd22yfh/assets/1247c6a0-a075-48b0-b03b-9dd8ba413c07__lp-maxwell-5.webp" alt="Project 5" />
+            <h3 id="iport5title">Dashboard Interface</h3>
+            <p id="iport5cat">Web Design</p>
+          </div>
+          <div data-type-role="flex-column" id="iport6" class="gjs-plg-flex-column">
+            <img id="iport6img" src="https://cdn.grapesjs.com/workspaces/cmf55fvd721dbd80a2yd22yfh/assets/361c39af-9e53-463c-98d7-be5a9c6a74e7__lp-maxwell-2.webp" alt="Project 6" />
+            <h3 id="iport6title">Marketing Campaign</h3>
+            <p id="iport6cat">Development</p>
+          </div>
+        </div>
+      </div>
+    </section>
+    <section id="icta" class="gjs-section">
+      <div id="ictacnt" class="gjs-container">
+        <div data-type-role="flex-column" id="ictacol" class="gjs-plg-flex-column">
+          <p id="ictalabel">Ready to start your project?</p>
+          <h2 id="ictatitle">Looking For Professional Services?</h2>
+          <a href="#contact" id="ictabtn" class="gjs-link-box">
+            <span id="ictabtntext">Hire Me Now</span>
+          </a>
+        </div>
+      </div>
+    </section>
+    <section id="resume" class="gjs-section">
+      <div id="irescnt" class="gjs-container">
+        <div data-type-role="flex-column" id="iresheader" class="gjs-plg-flex-column">
+          <h2 id="irestitle">Resume</h2>
+          <p id="iressubtitle">My professional journey showcasing education and experience in design and development.</p>
+        </div>
+        <div data-type-role="flex-column" id="iresitems" class="gjs-plg-flex-column">
+          <div data-type-role="flex-row" id="ires1" class="gjs-plg-flex-row">
+            <div data-type-role="flex-column" id="ires1col1" class="gjs-plg-flex-column">
+              <h3 id="ires1degree">Master of Design</h3>
+              <p id="ires1year">2018-2020</p>
+            </div>
+            <div data-type-role="flex-column" id="ires1col2" class="gjs-plg-flex-column">
+              <h3 id="ires1role">Advanced Digital Design</h3>
+              <p id="ires1desc">Specialized in user experience design and interactive media, focusing on creating innovative digital solutions that solve real-world problems. Graduated with honors and completed thesis on mobile interface optimization.</p>
+            </div>
+          </div>
+          <div data-type-role="flex-row" id="ires2" class="gjs-plg-flex-row">
+            <div data-type-role="flex-column" id="ires2col1" class="gjs-plg-flex-column">
+              <h3 id="ires2degree">Bachelor of Arts</h3>
+              <p id="ires2year">2014-2018</p>
+            </div>
+            <div data-type-role="flex-column" id="ires2col2" class="gjs-plg-flex-column">
+              <h3 id="ires2role-2">Graphic Design &amp; Web Development</h3>
+              <p id="ires2desc">Comprehensive program covering both visual design principles and technical web development skills. Developed strong foundation in typography, color theory, and modern web technologies including HTML, CSS, and JavaScript.</p>
+            </div>
+          </div>
+          <div data-type-role="flex-row" id="ires3" class="gjs-plg-flex-row">
+            <div data-type-role="flex-column" id="ires3col1" class="gjs-plg-flex-column">
+              <h3 id="ires3degree">Professional Certificate</h3>
+              <p id="ires3year">2013-2014</p>
+            </div>
+            <div data-type-role="flex-column" id="ires3col2" class="gjs-plg-flex-column">
+              <h3 id="ires3role">UI/UX Design Fundamentals</h3>
+              <p id="ires3desc">Intensive certification program focusing on user-centered design methodologies, wireframing, prototyping, and usability testing. Learned industry-standard tools and best practices for creating effective digital experiences.</p>
+            </div>
+          </div>
+        </div>
+      </div>
+    </section>
+    <section id="istats" class="gjs-section">
+      <div id="istatscnt" class="gjs-container">
+        <div data-type-role="flex-row" id="istatsrow" class="gjs-plg-flex-row">
+          <div data-type-role="flex-column" id="istat1" class="gjs-plg-flex-column">
+            <div data-type-icon="" id="istat1icon" class="gjs-icon">
+              <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" id="ipc6ya">
+                <g fill="none" stroke="currentColor" stroke-linecap="round" stroke-width="1.5" id="iedawr">
+                  <path d="M12 17c-1.674 0-3.13 1.265-3.882 3.131c-.36.892.156 1.869.84 1.869h6.083c.685 0 1.2-.977.841-1.869C15.13 18.265 13.674 17 12 17Z" id="ikpk66"></path>
+                  <path stroke-linejoin="round" d="M18.5 5h1.202c1.201 0 1.801 0 2.115.377c.313.378.183.944-.078 2.077l-.39 1.7C20.76 11.708 18.61 13.608 16 14M5.5 5H4.298c-1.201 0-1.802 0-2.115.377c-.313.378-.183.944.078 2.077l.39 1.7C3.24 11.708 5.39 13.608 8 14" id="iktrvi"></path>
+                  <path d="M12 17c3.02 0 5.565-4.662 6.33-11.01c.211-1.754.317-2.632-.243-3.311S16.622 2 14.813 2H9.187c-1.81 0-2.714 0-3.274.679S5.46 4.236 5.67 5.991C6.435 12.338 8.98 17 12 17Z" id="i9s1tp"></path>
+                </g>
+              </svg>
+            </div>
+            <h3 id="istat1num">150+</h3>
+            <p id="istat1text">Completed Projects</p>
+          </div>
+          <div data-type-role="flex-column" id="istat2" class="gjs-plg-flex-column">
+            <div data-type-icon="" id="istat1icon-3" class="gjs-icon">
+              <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" id="if92lr">
+                <g fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5" id="iv3rro">
+                  <path d="M15.5 11a3.5 3.5 0 1 0-7 0a3.5 3.5 0 0 0 7 0" id="icdu5o"></path>
+                  <path d="M15.483 11.35q.484.149 1.017.15a3.5 3.5 0 1 0-3.483-3.85m-2.034 0a3.5 3.5 0 1 0-2.466 3.7M22 16.5c0-2.761-2.462-5-5.5-5m1 8c0-2.761-2.462-5-5.5-5s-5.5 2.239-5.5 5" id="iwfvck"></path>
+                  <path d="M7.5 11.5c-3.038 0-5.5 2.239-5.5 5" id="imlohm"></path>
+                </g>
+              </svg>
+            </div>
+            <h3 id="istat2num">85+</h3>
+            <p id="istat2text">Happy Clients</p>
+          </div>
+          <div data-type-role="flex-column" id="istat3" class="gjs-plg-flex-column">
+            <div data-type-icon="" id="istat1icon-3-2" class="gjs-icon">
+              <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" id="iq11hq">
+                <g fill="none" stroke="currentColor" stroke-linecap="round" stroke-width="1.5" id="ivtyyk">
+                  <path d="M18.25 10.5h1.39c1.852 0 2.402.265 2.357 1.584c-.073 2.183-1.058 4.72-4.997 5.416" id="i4pgeq"></path>
+                  <path d="M5.946 20.615C2.572 18.02 2.075 14.34 2.001 10.5c-.031-1.659.45-2 2.658-2h10.682c2.208 0 2.69.341 2.658 2c-.074 3.84-.57 7.52-3.945 10.115c-.96.738-1.77.885-3.135.885H9.081c-1.364 0-2.174-.147-3.135-.886Z" id="icujib"></path>
+                  <path stroke-linejoin="round" d="M11.309 2.5C10.762 2.839 10 4 10 5.5M7.54 4S7 4.5 7 5.5M14.001 4c-.273.17-.501 1-.501 1.5" id="ijvwri"></path>
+                </g>
+              </svg>
+            </div>
+            <h3 id="istat3num">2,500+</h3>
+            <p id="istat3text">Coffee Cups</p>
+          </div>
+          <div data-type-role="flex-column" id="istat4" class="gjs-plg-flex-column">
+            <div data-type-icon="" id="istat1icon-3-2-2" class="gjs-icon">
+              <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" id="iy63gj">
+                <g fill="none" stroke="currentColor" stroke-width="1.5" id="ix9e91">
+                  <path d="M18.99 19H19m-.01 0c-.622.617-1.75.464-2.542.464c-.972 0-1.44.19-2.133.883C13.725 20.937 12.934 22 12 22s-1.725-1.063-2.315-1.653c-.694-.693-1.162-.883-2.133-.883c-.791 0-1.92.154-2.543-.464c-.627-.622-.473-1.756-.473-2.552c0-1.007-.22-1.47-.937-2.186C2.533 13.196 2 12.662 2 12s.533-1.196 1.6-2.262c.64-.64.936-1.274.936-2.186c0-.791-.154-1.92.464-2.543c.622-.627 1.756-.473 2.552-.473c.912 0 1.546-.297 2.186-.937C10.804 2.533 11.338 2 12 2s1.196.533 2.262 1.6c.64.64 1.274.936 2.186.936c.791 0 1.92-.154 2.543.464c.627.622.473 1.756.473 2.552c0 1.007.22 1.47.937 2.186C21.467 10.804 22 11.338 22 12s-.533 1.196-1.6 2.262c-.716.717-.936 1.18-.936 2.186c0 .796.154 1.93-.473 2.552Z" id="if18bv"></path>
+                  <path stroke-linecap="round" stroke-linejoin="round" d="m9 12.893l1.8 1.607l4.2-5" id="ieszfh"></path>
+                </g>
+              </svg>
+            </div>
+            <h3 id="istat4num">98%</h3>
+            <p id="istat4text">Client Satisfaction</p>
+          </div>
+        </div>
+      </div>
+    </section>
+    <section id="skills" class="gjs-section">
+      <div id="iskillcnt" class="gjs-container">
+        <div data-type-role="flex-row" id="ixx3gc" class="gjs-plg-flex-row">
+          <div data-type-role="flex-column" id="iskillheader" class="gjs-plg-flex-column">
+            <h2 id="iskilltitle">My Skills</h2>
+            <p id="iskillsubtitle">A comprehensive skill set developed through years of experience and continuous learning in design and development.</p>
+          </div>
+          <div data-type-role="flex-column" id="i515qg" class="gjs-plg-flex-column">
+            <div data-type-role="flex-row" id="if7b7x" class="gjs-plg-flex-row">
+              <div data-type-role="flex-column" id="iklcgd" class="gjs-plg-flex-column">
+                <div data-type-icon="" id="istat1icon-2" class="gjs-icon">
+                  <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" id="i311p4">
+                    <path fill="currentColor" d="M373.5 27.1C388.5 9.9 410.2 0 433.1 0c43.6 0 79 35.4 79 79c0 22.8-9.9 44.6-27.1 59.6L283.7 313.8L273 303l-64-64l-10.8-10.7zM161.1 259c.9 1 26.9 27 77.9 78l13.9 13.9l-17.1 74.2c-3.9 17.1-16.9 30.7-33.8 35.4L32.2 508l92.3-92.3c1.2.1 2.3.2 3.5.2c17.7 0 32-14.3 32-32s-14.3-32-32-32s-32 14.3-32 32c0 1.2.1 2.4.2 3.5L3.9 479.8L51.5 310c4.7-16.9 18.3-29.9 35.4-33.8z" id="ijg5q6"></path>
+                  </svg>
+                </div>
+              </div>
+              <div data-type-role="flex-column" id="ikhh49" class="gjs-plg-flex-column">
+                <h3 id="ires2role">Design</h3>
+              </div>
+              <div data-type-role="flex-column" id="iklcgd-2" class="gjs-plg-flex-column">
+                <div data-type-icon="" id="istat1icon-2-3" class="gjs-icon">
+                  <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 576 512" id="iyhbnt">
+                    <path fill="currentColor" d="M360.8 1.2c-17-4.9-34.7 5-39.6 22l-128 448c-4.9 17 5 34.7 22 39.6s34.7-5 39.6-22l128-448c4.9-17-5-34.7-22-39.6m64.6 136.1c-12.5 12.5-12.5 32.8 0 45.3l73.4 73.4l-73.4 73.4c-12.5 12.5-12.5 32.8 0 45.3s32.8 12.5 45.3 0l96-96c12.5-12.5 12.5-32.8 0-45.3l-96-96c-12.5-12.5-32.8-12.5-45.3 0zm-274.7 0c-12.5-12.5-32.8-12.5-45.3 0l-96 96c-12.5 12.5-12.5 32.8 0 45.3l96 96c12.5 12.5 32.8 12.5 45.3 0s12.5-32.8 0-45.3L77.3 256l73.3-73.4c12.5-12.5 12.5-32.8 0-45.3z" id="i4g8sx"></path>
+                  </svg>
+                </div>
+              </div>
+              <div data-type-role="flex-column" id="ikhh49-2" class="gjs-plg-flex-column">
+                <h3 id="ires2role-3">HTML/CSS</h3>
+              </div>
+            </div>
+            <div data-type-role="flex-row" id="if7b7x-2" class="gjs-plg-flex-row">
+              <div data-type-role="flex-column" id="iklcgd-3" class="gjs-plg-flex-column">
+                <div data-type-icon="" id="istat1icon-2-2" class="gjs-icon">
+                  <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" id="i98dth">
+                    <path fill="currentColor" d="M149.1 64.8L138.7 96H64c-35.3 0-64 28.7-64 64v256c0 35.3 28.7 64 64 64h384c35.3 0 64-28.7 64-64V160c0-35.3-28.7-64-64-64h-74.7l-10.4-31.2C356.4 45.2 338.1 32 317.4 32H194.6c-20.7 0-39 13.2-45.5 32.8M256 192a96 96 0 1 1 0 192a96 96 0 1 1 0-192" id="ix87mz"></path>
+                  </svg>
+                </div>
+              </div>
+              <div data-type-role="flex-column" id="ikhh49-3" class="gjs-plg-flex-column">
+                <h3 id="ires2role-3-2">Photography</h3>
+              </div>
+              <div data-type-role="flex-column" id="iklcgd-2-3" class="gjs-plg-flex-column">
+                <div data-type-icon="" id="istat1icon-2-3-2" class="gjs-icon">
+                  <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" id="ijhah4">
+                    <path fill="currentColor" d="m61.7 169.4l101.5 278C92.2 413 43.3 340.2 43.3 256c0-30.9 6.6-60.1 18.4-86.6m337.9 75.9c0-26.3-9.4-44.5-17.5-58.7c-10.8-17.5-20.9-32.4-20.9-49.9c0-19.6 14.8-37.8 35.7-37.8c.9 0 1.8.1 2.8.2c-37.9-34.7-88.3-55.9-143.7-55.9c-74.3 0-139.7 38.1-177.8 95.9c5 .2 9.7.3 13.7.3c22.2 0 56.7-2.7 56.7-2.7c11.5-.7 12.8 16.2 1.4 17.5c0 0-11.5 1.3-24.3 2l77.5 230.4L249.8 247l-33.1-90.8c-11.5-.7-22.3-2-22.3-2c-11.5-.7-10.1-18.2 1.3-17.5c0 0 35.1 2.7 56 2.7c22.2 0 56.7-2.7 56.7-2.7c11.5-.7 12.8 16.2 1.4 17.5c0 0-11.5 1.3-24.3 2l76.9 228.7l21.2-70.9c9-29.4 16-50.5 16-68.7m-139.9 29.3l-63.8 185.5c19.1 5.6 39.2 8.7 60.1 8.7c24.8 0 48.5-4.3 70.6-12.1c-.6-.9-1.1-1.9-1.5-2.9zm183-120.7c.9 6.8 1.4 14 1.4 21.9c0 21.6-4 45.8-16.2 76.2l-65 187.9C426.2 403 468.7 334.5 468.7 256c0-37-9.4-71.8-26-102.1M8 256a248 248 0 1 1 496 0a248 248 0 1 1-496 0m484.6 0a236.6 236.6 0 1 0-473.2 0a236.6 236.6 0 1 0 473.2 0" id="ih1n9f"></path>
+                  </svg>
+                </div>
+              </div>
+              <div data-type-role="flex-column" id="ikhh49-2-2" class="gjs-plg-flex-column">
+                <h3 id="ires2role-3-2-2">Wordpress</h3>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </section>
+    <section id="ireviews" class="gjs-section">
+      <div id="irevcnt" class="gjs-container">
+        <div data-type-role="flex-column" id="irevheader" class="gjs-plg-flex-column">
+          <h2 id="irevtitle">Reviews</h2>
+          <p id="irevsubtitle">Feedback from clients and colleagues who have experienced working with me on various projects.</p>
+        </div>
+        <div data-type-role="flex-row" id="irevcards" class="gjs-plg-flex-row">
+          <div data-type-role="flex-column" id="irev1" class="gjs-plg-flex-column">
+            <img src="https://cdn.grapesjs.com/workspaces/cmf55fvd721dbd80a2yd22yfh/assets/0343c746-3d70-4c5a-869e-d047d6900ab8__asset-testimony-avatar-10.webp" alt="Client Photo" id="irev1img" />
+            <p id="irev1text">Working with Alex was an absolute pleasure. Their attention to detail and creative vision transformed our website into a powerful marketing tool. The results exceeded our expectations and our conversion rates have increased significantly.</p>
+            <h3 id="irev1name">Jessica Thompson</h3>
+            <span id="irev1role">Marketing Director</span>
+          </div>
+          <div data-type-role="flex-column" id="irev2" class="gjs-plg-flex-column">
+            <img src="https://cdn.grapesjs.com/workspaces/cmf55fvd721dbd80a2yd22yfh/assets/39989f95-1938-471c-b139-f4be654be3c6__asset-testimony-avatar-13.webp" alt="Client Photo" id="irev2img" />
+            <p id="irev2text">An exceptional designer with the technical skills to back it up. Alex delivered our project on time and on budget, while maintaining the highest quality standards. I highly recommend their services to anyone looking for top-tier design work.</p>
+            <h3 id="irev2name">Marcus Chen</h3>
+            <span id="irev2role">Product Manager</span>
+          </div>
+          <div data-type-role="flex-column" id="irev3" class="gjs-plg-flex-column">
+            <img src="https://cdn.grapesjs.com/workspaces/cmf55fvd721dbd80a2yd22yfh/assets/a21b5c54-9faa-464e-bc33-5366290e0d52__asset-testimony-avatar-18.webp" alt="Client Photo" id="irev3img" />
+            <p id="irev3text">Professional, creative, and reliable. Alex took the time to understand our brand and created a visual identity that perfectly captures who we are. The collaboration was smooth and the final product speaks for itself.</p>
+            <h3 id="irev3name">Sarah Anderson</h3>
+            <span id="irev3role">Business Owner</span>
+          </div>
+        </div>
+      </div>
+    </section>
+    <section id="events" class="gjs-section">
+      <div id="iblogcnt" class="gjs-container">
+        <div data-type-role="flex-column" id="iblogheader" class="gjs-plg-flex-column">
+          <h2 id="iblogtitle">Upcoming Events</h2>
+        </div>
+        <div data-type-role="flex-row" id="iblogcards" class="gjs-plg-flex-row">
+          <div data-type-role="flex-column" id="iblog1" class="gjs-plg-flex-column">
+            <img id="iblog1img" src="https://cdn.grapesjs.com/workspaces/cmms2nlou1a6n3ccnpj2h7yx5/assets/fe6ce60d-6ccc-4d16-986d-7df8865d178c__usoflutecropped.jpg" alt="Blog Post 1" />
+            <div id="iblog1date" class="gjs-blog-date">
+              <span id="iblog1day">25</span>
+              <span id="iblog1month">Mar</span>
+            </div>
+            <h3 id="iblog1title">University Symphony: 100th Anniversary Concert</h3>
+            <div data-type-role="flex-row" id="iblog1meta" class="gjs-plg-flex-row">
+              <span id="iblog1author">7:30 PM<div id="ipr6xa">Opperman Music Hall, Tallahassee, FL</div>
+              </span>
+            </div>
+            <p id="iblog1text">Celebrate 100 years of Orchestra at FSU! Join us as the women of the USO honor this historic milestone in our history by replicating that first 1926 orchestra concert of the then Florida State College for Women. Ticketed event.</p>
+            <a href="https://music.fsu.edu/event/university-symphony-orchestra-100th-anniversary-celebration-concert/" id="iblog1link" class="gjs-t-link">Read More</a>
+            <a href="https://music.fsu.edu/event/university-symphony-orchestra-100th-anniversary-celebration-concert/" id="iblog1link-2" class="gjs-t-link">Watch the Livestream</a>
+          </div>
+          <div data-type-role="flex-column" id="iblog2" class="gjs-plg-flex-column">
+            <img id="iblog2img" src="https://cdn.grapesjs.com/workspaces/cmms2nlou1a6n3ccnpj2h7yx5/assets/c0dbefd9-6726-4b99-a4b3-8f478c9728a4__omh.jpg" alt="Blog Post 2" />
+            <div id="iblog2date" class="gjs-blog-date">
+              <span id="iblog2day">14</span>
+              <span id="iblog2month">Apr</span>
+            </div>
+            <h3 id="iblog2title">Choral Union Concert</h3>
+            <div data-type-role="flex-row" id="iblog2meta" class="gjs-plg-flex-row">
+              <span id="iblog2author">7:30 PM<div id="it9eb9">Opperman Music Hall, Tallahassee, FL</div>
+              </span>
+            </div>
+            <p id="iblog2text">The Creo Quintet will play alongside the Choral Union at Florida State University. Free and open to the public.</p>
+            <a href="https://music.fsu.edu/event/choral-union-performance-3/" id="iblog2link" class="gjs-t-link">Read More</a>
+          </div>
+          <div data-type-role="flex-column" id="iblog3" class="gjs-plg-flex-column">
+            <img id="iblog3img" src="https://cdn.grapesjs.com/workspaces/cmms2nlou1a6n3ccnpj2h7yx5/assets/4dedd00e-f77e-4f2b-88f9-a0622ba97f54__chain-of-parks.jpg" alt="Blog Post 3" />
+            <div id="iblog3date" class="gjs-blog-date">
+              <span id="iblog3day">18</span>
+              <span id="iblog3month">Apr</span>
+            </div>
+            <h3 id="iblog3title">Grupo Jaraguá at 2026 Chain of Parks Art Festival</h3>
+            <div data-type-role="flex-row" id="iblog3meta" class="gjs-plg-flex-row">
+              <span id="iblog3author">
+                <span data-gs-mrk-fs="true" id="ie7y9e">Time TBD (10 AM-5PM)</span>
+                <div id="ih2yrb">
+                  <span data-gs-mrk-fs="true" id="ie4eym">Monroe St and Park Ave, Tallahassee, FL</span>
+                </div>
+              </span>
+            </div>
+            <p id="iblog3text">I will play with the Brazilian Ensemble at FSU for the 26th annual Chain of Parks Art Festival, ranked #1 fine art festival in Florida. Free and open to the public.</p>
+            <a href="https://chainofparks.org/about-the-festival/" id="iblog3link" class="gjs-t-link">Read More</a>
+          </div>
+          <div data-type-role="flex-column" id="iblog3-2" class="gjs-plg-flex-column">
+            <img id="iblog3img-2" src="https://cdn.grapesjs.com/workspaces/cmms2nlou1a6n3ccnpj2h7yx5/assets/cce9dc8f-a2c3-414d-8e59-6ee3cd8d23d3__drh.jpg" alt="Blog Post 3" />
+            <div id="iblog3date-2" class="gjs-blog-date">
+              <span id="iblog3day-2">23</span>
+              <span id="iblog3month-2">Apr</span>
+            </div>
+            <h3 id="iblog3title-2">Doctoral Chamber Recital of Jiaqiu Song, Piano</h3>
+            <div data-type-role="flex-row" id="iblog3meta-2" class="gjs-plg-flex-row">
+              <span id="iblog3author-2">7:30 PM<div id="ix6ne3">Dohnányi Recital Hall, Tallahassee, FL</div>
+              </span>
+            </div>
+            <p id="iblog3text-2">The Creo Quintet will perform Poulenc’s Sextet with doctoral student at Florida State University Jiaqiu Song. Free and open to the public.</p>
+            <a href="https://music.fsu.edu/event/doctoral-chamber-recital-of-jiaqiu-song-piano/" id="iblog3link-2" target="_blank" class="gjs-t-link">Read More</a>
+          </div>
+        </div>
+      </div>
+    </section>
+    <section id="contact" class="gjs-section">
+      <div id="iconcnt" class="gjs-container">
+        <div data-type-role="flex-row" id="iconrow" class="gjs-plg-flex-row">
+          <div data-type-role="flex-column" id="iconcol1" class="gjs-plg-flex-column">
+            <h3 id="icontitle">Get In Touch</h3>
+            <p id="icontext">Would you like to ask a question or request a trial lesson? Don’t hesitate to reach out!</p>
+            <div data-type-role="flex-column" id="iconinfo" class="gjs-plg-flex-column">
+              <div data-type-role="flex-row" id="iconrow1" class="gjs-plg-flex-row">
+                <div data-type-icon="" id="icon1icon-2" class="gjs-icon">
+                  <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" id="iconsvg1-2">
+                    <path fill="currentColor" d="M12 2C8.13 2 5 5.13 5 9c0 5.25 7 13 7 13s7-7.75 7-13c0-3.87-3.13-7-7-7zm0 9.5c-1.38 0-2.5-1.12-2.5-2.5s1.12-2.5 2.5-2.5 2.5 1.12 2.5 2.5-1.12 2.5-2.5 2.5z" id="iconpath1-2"></path>
+                  </svg>
+                </div>
+                <span id="iconaddr">Cookeville, TN</span>
+              </div>
+              <div data-type-role="flex-row" id="iconrow2" class="gjs-plg-flex-row">
+                <div data-type-icon="" id="icon2icon" class="gjs-icon">
+                  <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" id="iconsvg2">
+                    <path fill="currentColor" d="M6.62 10.79c1.44 2.83 3.76 5.14 6.59 6.59l2.2-2.2c.27-.27.67-.36 1.02-.24 1.12.37 2.33.57 3.57.57.55 0 1 .45 1 1V20c0 .55-.45 1-1 1-9.39 0-17-7.61-17-17 0-.55.45-1 1-1h3.5c.55 0 1 .45 1 1 0 1.25.2 2.45.57 3.57.11.35.03.74-.25 1.02l-2.2 2.2z" id="iconpath2"></path>
+                  </svg>
+                </div>
+                <span id="iconphone">(865) 742-3389</span>
+              </div>
+              <div data-type-role="flex-row" id="iconrow3" class="gjs-plg-flex-row">
+                <div data-type-icon="" id="icon3icon" class="gjs-icon">
+                  <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" id="iconsvg3">
+                    <path fill="currentColor" d="M20 4H4c-1.1 0-2 .9-2 2v12c0 1.1.9 2 2 2h16c1.1 0 2-.9 2-2V6c0-1.1-.9-2-2-2zm0 4l-8 5-8-5V6l8 5 8-5v2z" id="iconpath3"></path>
+                  </svg>
+                </div>
+                <span id="iconemail">pgm.douglas@gmail.com</span>
+              </div>
+            </div>
+            <div data-type-role="flex-row" id="iwiq5r" class="gjs-plg-flex-row">
+              <div data-type-role="flex-column" id="i57598" class="gjs-plg-flex-column">
+                <a id="ima94e" href="https://www.facebook.com/paige.douglas.689636" class="gjs-link-box">
+                  <div data-type-icon="" id="icon1icon" class="gjs-icon">
+                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" id="ig61vq">
+                      <path fill="currentColor" d="M9.602 21.026v-7.274H6.818a.545.545 0 0 1-.545-.545V10.33a.545.545 0 0 1 .545-.545h2.773V7a4.547 4.547 0 0 1 4.86-4.989h2.32a.556.556 0 0 1 .557.546v2.436a.557.557 0 0 1-.557.545h-1.45c-1.566 0-1.867.742-1.867 1.833v2.413h3.723a.533.533 0 0 1 .546.603l-.337 2.888a.545.545 0 0 1-.545.476h-3.364v7.274a.96.96 0 0 1-.975.974h-1.937a.96.96 0 0 1-.963-.974" id="i883me">
+                      </path>
+                    </svg>
+                  </div>
+                </a>
+                <a id="ima94e-4" href="https://www.instagram.com/pgmdouglas/" class="gjs-link-box">
+                  <div data-type-icon="" id="icon1icon-5" title="" class="gjs-icon">
+                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" id="ilzvg9">
+                      <path fill="currentColor" d="M13.823 12.234c-.016.35-.13.688-.331.975a1.7 1.7 0 0 1-.829.643a1.77 1.77 0 0 1-1.053.088a1.8 1.8 0 0 1-.926-.516a1.9 1.9 0 0 1-.468-.976a1.76 1.76 0 0 1 .127-1.043c.144-.327.38-.606.682-.8c.307-.19.662-.291 1.024-.292c.477.026.926.232 1.258.575a1.85 1.85 0 0 1 .516 1.346" id="i4b2id">
+                      </path>
+                      <path fill="currentColor" d="M17.265 8.002a2.26 2.26 0 0 0-1.248-1.248a2.6 2.6 0 0 0-.887-.175H8.968A2.31 2.31 0 0 0 6.667 8.88v6.279a2.3 2.3 0 0 0 .682 1.628a2.32 2.32 0 0 0 1.619.673h6.162a2.32 2.32 0 0 0 2.123-1.419a2.3 2.3 0 0 0 .178-.882v-6.27a2.6 2.6 0 0 0-.166-.887m-2.437 5.441a2.9 2.9 0 0 1-.644.975c-.28.283-.611.51-.975.673a3.13 3.13 0 0 1-2.486-.028a3.08 3.08 0 0 1-1.765-3.365a3.2 3.2 0 0 1 .829-1.59a3.11 3.11 0 0 1 3.354-.692c.567.23 1.05.628 1.384 1.141a3.03 3.03 0 0 1 .527 1.677c.014.415-.063.827-.224 1.209M15.9 8.626a.555.555 0 1 1-1.102 0a.557.557 0 1 1 1.102 0" id="iq0k79">
+                      </path>
+                      <path fill="currentColor" d="M16.875 2.25h-9.75A4.875 4.875 0 0 0 2.25 7.125v9.75a4.875 4.875 0 0 0 4.875 4.875h9.75a4.875 4.875 0 0 0 4.875-4.875v-9.75a4.875 4.875 0 0 0-4.875-4.875m2.067 12.812c.01.51-.087 1.019-.283 1.491a3.9 3.9 0 0 1-2.096 2.096c-.473.196-.98.292-1.492.283H9.075a3.8 3.8 0 0 1-1.492-.282a4 4 0 0 1-1.258-.839a3.9 3.9 0 0 1-.838-1.258a3.7 3.7 0 0 1-.312-1.492V9.018a3.8 3.8 0 0 1 .283-1.492A3.9 3.9 0 0 1 7.535 5.41a3.9 3.9 0 0 1 1.54-.263h6.045a3.8 3.8 0 0 1 2.73 1.121c.357.362.641.79.838 1.258c.195.473.292.98.283 1.492z" id="ikmndi">
+                      </path>
+                    </svg>
+                  </div>
+                </a>
+                <a id="ima94e-3" href="https://www.linkedin.com/in/paige-douglas-4995bb3a7/" class="gjs-link-box">
+                  <div data-type-icon="" id="icon1icon-4" class="gjs-icon">
+                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" id="iskn5l">
+                      <path fill="currentColor" d="M17.303 2.25H6.697A4.447 4.447 0 0 0 2.25 6.697v10.606a4.447 4.447 0 0 0 4.447 4.447h10.606a4.447 4.447 0 0 0 4.447-4.447V6.697a4.447 4.447 0 0 0-4.447-4.447m-8.46 15.742a.4.4 0 0 1-.4.423h-1.78a.41.41 0 0 1-.4-.412V10.6a.4.4 0 0 1 .4-.411h1.78a.4.4 0 0 1 .4.411zM7.52 8.632a1.467 1.467 0 1 1 .022-2.935A1.467 1.467 0 0 1 7.52 8.63m10.817 9.35a.39.39 0 0 1-.378.388H16.08a.39.39 0 0 1-.378-.389v-3.424c0-.511.156-2.223-1.356-2.223c-1.179 0-1.412 1.2-1.457 1.734v3.991a.39.39 0 0 1-.378.39h-1.823a.39.39 0 0 1-.389-.39v-7.493a.39.39 0 0 1 .39-.378h1.822a.39.39 0 0 1 .39.378v.645a2.59 2.59 0 0 1 2.434-1.112c3.035 0 3.024 2.835 3.024 4.447z" id="i0lntv">
+                      </path>
+                    </svg>
+                  </div>
+                </a>
+              </div>
+            </div>
+          </div>
+          <div data-type-role="flex-column" id="iconcol2" class="gjs-plg-flex-column">
+            <form method="get" id="iconform" class="gjs-form">
+              <input type="text" placeholder="Your Name" id="iname" class="gjs-input" />
+              <input type="email" placeholder="Your Email" id="iemail" class="gjs-input" />
+              <textarea placeholder="Your Message" id="imessage" class="gjs-textarea"></textarea>
+              <button type="submit" id="isubmit" class="gjs-button">Send message</button>
+            </form>
+          </div>
+        </div>
+      </div>
+    </section>
+    <footer id="ifooter" class="gjs-section">
+      <div id="ifootcnt" class="gjs-container">
+        <div data-type-role="flex-row" id="ifootrow" class="gjs-plg-flex-row">
+          <p id="ifootcopy">Paige Douglasl © 2026 All Right Reserved</p>
+          <div data-type-role="flex-row" id="ifootmenu" class="gjs-plg-flex-row">
+            <a href="#about" id="ifootlink1" class="gjs-t-link">About</a>
+            <a href="#resume" id="ifootlink2" class="gjs-t-link">Resume</a>
+            <a href="#home" id="ifootlink3" class="gjs-t-link">Back to Top</a>
+          </div>
+        </div>
+      </div>
+    </footer>
+  </body>
+
+</html>
